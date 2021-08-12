@@ -1,0 +1,238 @@
+* {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-primary-new {
+  background-color: #F5F4F7;
+}
+
+.bg-secondary-new {
+  background-color: #FA4230;
+}
+
+.navbar .navbar-brand {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.navbar-brand {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: 600;
+}
+
+.section-hero .bg-subtitle {
+  margin-top: 50px;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+.section-hero .bg-title {
+  font-weight: 300;
+  font-size: 40px;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.section-hero .btn-shopnow {
+  background: #FA4230;
+  border-radius: 0;
+  color: #fff;
+  font-size: 16px;
+  padding: 8px 25px;
+}
+
+.section-hero .img-hero {
+  margin-top: 50px;
+  max-width: 100%;
+  margin-bottom: 100px;
+}
+
+.section-arrival {
+  margin: 30px 0px;
+}
+
+.section-arrival .section-title {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.section-arrival .arrival-one {
+  margin-top: 20px;
+}
+
+.section-arrival .arrival-one .arrival-image img {
+  width: 100%;
+}
+
+.section-arrival .arrival-one .arrival-text .product-title {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.section-arrival .arrival-one .arrival-text .product-price {
+  margin-top: 5px;
+  font-size: 19px;
+  color: #FA4230;
+}
+
+.section-arrival .arrival-one .arrival-text .product-detail {
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.section-arrival .arrival-two {
+  margin-top: 60px;
+}
+
+.section-arrival .arrival-two .arrival-image img {
+  width: 100%;
+}
+
+.section-arrival .arrival-two .arrival-text .product-title {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.section-arrival .arrival-two .arrival-text .product-price {
+  margin-top: 5px;
+  font-size: 19px;
+  color: #FA4230;
+}
+
+.section-arrival .arrival-two .arrival-text .product-detail {
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.section-product {
+  margin-top: 40px;
+}
+
+.section-product .section-title {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.section-product .section-subtitle {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+.section-product .category-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.section-product .category-box .category-item {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+  margin-right: 16px;
+  color: #C4C4C4;
+  cursor: pointer;
+}
+
+.section-product .category-box .category-item.active {
+  color: #000;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #FA4230;
+          text-decoration-color: #FA4230;
+  text-decoration-thickness: 3px;
+}
+
+.section-product .product-box {
+  margin-top: 20px;
+}
+
+.section-product .product-box .product-image {
+  margin-bottom: 20px;
+}
+
+.section-product .product-box .product-image img {
+  width: 100%;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.section-product .product-box .product-placement {
+  font-weight: 300;
+}
+
+.section-product .product-box .product-detail {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.section-product .product-box .product-detail .product-title {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.section-product .product-box .product-detail .product-price {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #FA4230;
+}
+
+.section-update {
+  margin: 30px 0px;
+}
+
+.section-update .banner-box .banner-title {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.section-update .banner-box .banner-subtitle {
+  font-weight: 300;
+}
+
+.section-update .banner-box .banner-email-input {
+  margin-top: 20px;
+  width: 400px;
+}
+
+.section-update .banner-box .btn-shopnow {
+  background: #FA4230;
+  border-radius: 0;
+  color: #fff;
+  font-size: 16px;
+  padding: 5px 25px;
+}
+
+.section-footer {
+  background-color: #F5F4F7;
+}
+
+.section-footer a {
+  color: #071C4D;
+}
+
+.section-footer h5 {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+}
+/*# sourceMappingURL=main.css.map */
